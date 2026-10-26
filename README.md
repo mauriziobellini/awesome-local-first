@@ -47,6 +47,7 @@ What is local first?
 ### Productivity
 
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - Local-first workspace for documents, whiteboards, and knowledge management.
+- [Ring Habits](https://www.ringhabits.com/en/iphone-habit-tracker/) - Local-first habit tracker for iPhone and the [web](https://www.ringhabits.com/en/tracker/) with 100% local on-device storage — no account, no sign-up, and your habits stay on your phone (or browser localStorage). Replaces fragile streaks with a 0–100 habit strength score across 6 formation stages, press-and-hold ring completion, and self-set milestone rewards.
 
 ### Social Networks
 
